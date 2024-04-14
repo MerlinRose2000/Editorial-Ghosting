@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "editorial-ghosting",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
