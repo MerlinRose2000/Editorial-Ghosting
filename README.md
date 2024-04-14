@@ -54,7 +54,7 @@ This Progressive Web Application may be used in a browser that is both online an
 
 ## Live URL
 
----
+[Editorial Ghosting](https://editorial-ghosting-ddyt.onrender.com/)
 
 ## Screenshot
 
@@ -71,7 +71,7 @@ This Progressive Web Application may be used in a browser that is both online an
 
 ## Installation
 
-By accessing the deployed application at ---, users can view and use the program through a browser. In addition, users will be able to download the program and utilize it offline by viewing it in the browser.
+By accessing the deployed application at [Editorial Ghosting](https://editorial-ghosting-ddyt.onrender.com/), users can view and use the program through a browser. In addition, users will be able to download the program and utilize it offline by viewing it in the browser.
 
 ## License
 
